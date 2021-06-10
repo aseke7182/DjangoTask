@@ -15,7 +15,7 @@ django-cors-headers==3.2.1
 django-filter==2.2.0
 django-ipware==2.1.0
 djangorestframework==3.11.0
-fastapi==0.47.1
+fastapi==0.65.2
 h11==0.9.0
 httptools==0.0.13
 pkg-resources==0.0.0
@@ -34,7 +34,7 @@ django-cors-headers==3.2.1
 django-filter==2.2.0
 django-ipware==2.1.0
 djangorestframework==3.11.0
-fastapi==0.47.1
+fastapi==0.65.2
 h11==0.9.0
 httptools==0.0.13
 pkg-resources==0.0.0
